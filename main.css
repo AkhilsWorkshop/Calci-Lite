@@ -16,8 +16,8 @@
  }
  #time
  {
-    position: fixed;
-    margin-top: 35px;
+    position: absolute;
+    padding-top: 35px;
     margin-left: 50px;
     font-size: 10px;
  }
