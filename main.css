@@ -16,7 +16,7 @@
  }
  #time
  {
-    position: absolute;
+    position: fixed;
     margin-bottom: 599px;
     margin-right: 225px;
     font-size: 10px;
