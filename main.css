@@ -21,6 +21,17 @@
     margin-left: 50px;
     font-size: 10px;
  }
+ .heart {
+    color: red;
+ }
+ #copyright {
+    position: absolute;
+    padding-top: 60px;
+    margin-left: 80px;
+    font-size: 15px;
+ }
+
+
  .container
  {   
     position: absolute;
