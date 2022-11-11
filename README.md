@@ -2,7 +2,7 @@
 
 <h1>Calci Lite</h1>
 
-View live DEMO <a href="https://calci-lite.akhilkumar.ga/">here</a>
+View live DEMO <a href="https://calcy.akhilkumar.dev/">here</a>
 
 <h3>About</h3>
 
